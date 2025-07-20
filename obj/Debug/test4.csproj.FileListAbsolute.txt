@@ -1,0 +1,31 @@
+D:\Users\c#Project\test4\bin\Debug\test4.exe.config
+D:\Users\c#Project\test4\bin\Debug\test4.exe
+D:\Users\c#Project\test4\bin\Debug\test4.pdb
+D:\Users\c#Project\test4\obj\Debug\test4.csproj.AssemblyReference.cache
+D:\Users\c#Project\test4\obj\Debug\test4.csproj.SuggestedBindingRedirects.cache
+D:\Users\c#Project\test4\obj\Debug\test4.csproj.CoreCompileInputs.cache
+D:\Users\c#Project\test4\obj\Debug\test4.exe
+D:\Users\c#Project\test4\obj\Debug\test4.pdb
+D:\Users\c#Project\test4 — копия\obj\Debug\test4.csproj.AssemblyReference.cache
+D:\Users\c#Project\test4 — копия\obj\Debug\test4.csproj.SuggestedBindingRedirects.cache
+D:\Users\c#Project\test4 — копия\obj\Debug\test4.csproj.CoreCompileInputs.cache
+D:\Users\c#Project\test4 — копия\obj\Debug\test4.exe
+D:\Users\c#Project\test4 — копия\obj\Debug\test4.pdb
+D:\Users\c#Project\test4 — копия\bin\Debug\test4.exe.config
+D:\Users\c#Project\test4 — копия\bin\Debug\test4.exe
+D:\Users\c#Project\test4 — копия\bin\Debug\test4.pdb
+F:\программирование\магнум опус\Downburg\bin\Debug\test4.exe.config
+F:\программирование\магнум опус\Downburg\bin\Debug\test4.exe
+F:\программирование\магнум опус\Downburg\bin\Debug\test4.pdb
+F:\программирование\магнум опус\Downburg\obj\Debug\test4.csproj.AssemblyReference.cache
+F:\программирование\магнум опус\Downburg\obj\Debug\test4.csproj.SuggestedBindingRedirects.cache
+F:\программирование\магнум опус\Downburg\obj\Debug\test4.csproj.CoreCompileInputs.cache
+F:\программирование\магнум опус\Downburg\obj\Debug\test4.exe
+F:\программирование\магнум опус\Downburg\obj\Debug\test4.pdb
+D:\программирование\магнум опус\Downburg\bin\Debug\test4.exe.config
+D:\программирование\магнум опус\Downburg\bin\Debug\test4.exe
+D:\программирование\магнум опус\Downburg\bin\Debug\test4.pdb
+D:\программирование\магнум опус\Downburg\obj\Debug\test4.csproj.AssemblyReference.cache
+D:\программирование\магнум опус\Downburg\obj\Debug\test4.csproj.CoreCompileInputs.cache
+D:\программирование\магнум опус\Downburg\obj\Debug\test4.exe
+D:\программирование\магнум опус\Downburg\obj\Debug\test4.pdb
